@@ -1,0 +1,1 @@
+{"providers": [{"type": "bitmap", "file": "minecraft:font/smierci_mouse.png", "ascent": 8, "height": 9, "chars": ["\ue000"]}, {"type": "bitmap", "file": "minecraft:font/smierci_title.png", "ascent": 7, "height": 8, "chars": ["\ue001"]}]}

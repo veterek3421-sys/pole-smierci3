@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "polesmierci",
+  "version": "${version}",
+  "name": "Pole Śmierci",
+  "description": "Złote jabłko jako przedmiot Pole Śmierci: tekstura, nazwa, opis i ramka tooltipa.",
+  "environment": "*",
+  "entrypoints": { "main": [ "pl.polesmierci.PoleSmierci" ], "client": [ "pl.polesmierci.PoleSmierciClient" ] },
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "~1.21.4", "java": ">=21", "fabric-api": "*" }
+}
